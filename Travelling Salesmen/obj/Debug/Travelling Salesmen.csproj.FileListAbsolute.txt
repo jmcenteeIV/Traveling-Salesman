@@ -1,0 +1,6 @@
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\bin\Debug\Travelling Salesmen.exe.config
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\bin\Debug\Travelling Salesmen.exe
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\bin\Debug\Travelling Salesmen.pdb
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\obj\Debug\Travelling Salesmen.csprojResolveAssemblyReference.cache
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\obj\Debug\Travelling Salesmen.exe
+c:\users\ajdesktop\documents\visual studio 2015\Projects\Travelling Salesmen\Travelling Salesmen\obj\Debug\Travelling Salesmen.pdb

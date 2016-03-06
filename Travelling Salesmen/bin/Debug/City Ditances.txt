@@ -1,0 +1,286 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 2 number of cities
+City Coordinates Are: 
+X Coord: 203 498 
+Y Coord: 863 151 New Current Best With Distance: 770.693843234783, and City Arrangement Of: 1 2 
+
+
+Iteration 0 With City Line Up At: 
+1 2 
+Time Taken Thus Far Is 1 Milliseconds
+
+
+#########################################################
+Computations Finished
+Best Distance is: 770.693843234783 With City Arrangements 1 2 
+And City Locations: 
+203 498 
+863 151 
+Total Time Taken Is 1 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 3 number of cities
+City Coordinates Are: 
+X Coord: 203 498 280 
+Y Coord: 863 151 329 New Current Best With Distance: 1052.13300184637, and City Arrangement Of: 1 2 3 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 
+Time Taken Thus Far Is 0 Milliseconds
+
+New Current Best With Distance: 820.962096029454, and City Arrangement Of: 1 3 2 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 820.962096029454 With City Arrangements 1 3 2 
+And City Locations: 
+203 280 498 
+863 329 151 
+Total Time Taken Is 0 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 4 number of cities
+City Coordinates Are: 
+X Coord: 203 498 280 982 
+Y Coord: 863 151 329 591 New Current Best With Distance: 1801.43134029375, and City Arrangement Of: 1 2 3 4 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 
+Time Taken Thus Far Is 0 Milliseconds
+
+New Current Best With Distance: 1475.06912091147, and City Arrangement Of: 1 3 2 4 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 1475.06912091147 With City Arrangements 1 3 2 4 
+And City Locations: 
+203 280 498 982 
+863 329 151 591 
+Total Time Taken Is 1 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 5 number of cities
+City Coordinates Are: 
+X Coord: 203 498 280 982 256 
+Y Coord: 863 151 329 591 506 New Current Best With Distance: 2532.39029946998, and City Arrangement Of: 1 2 3 4 5 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 5 
+Time Taken Thus Far Is 0 Milliseconds
+
+New Current Best With Distance: 1961.71166878186, and City Arrangement Of: 1 2 3 5 4 
+
+New Current Best With Distance: 1801.88788996048, and City Arrangement Of: 1 3 5 2 4 
+
+New Current Best With Distance: 1475.07862308702, and City Arrangement Of: 1 5 3 2 4 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 1475.07862308702 With City Arrangements 1 5 3 2 4 
+And City Locations: 
+203 256 280 498 982 
+863 506 329 151 591 
+Total Time Taken Is 3 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 6 number of cities
+City Coordinates Are: 
+X Coord: 203 498 280 982 256 51 
+Y Coord: 863 151 329 591 506 650 New Current Best With Distance: 2782.91175563691, and City Arrangement Of: 1 2 3 4 5 6 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 5 6 
+Time Taken Thus Far Is 1 Milliseconds
+
+New Current Best With Distance: 2414.14178767826, and City Arrangement Of: 1 2 3 5 6 4 
+
+New Current Best With Distance: 2292.70395868018, and City Arrangement Of: 1 3 5 6 2 4 
+
+New Current Best With Distance: 2268.10169752943, and City Arrangement Of: 1 3 6 5 2 4 
+
+New Current Best With Distance: 2189.80855063784, and City Arrangement Of: 1 4 2 3 5 6 
+
+New Current Best With Distance: 1941.29243065597, and City Arrangement Of: 1 5 6 3 2 4 
+
+New Current Best With Distance: 1918.35047233755, and City Arrangement Of: 1 6 3 5 2 4 
+
+New Current Best With Distance: 1626.36080805346, and City Arrangement Of: 1 6 5 3 2 4 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 1626.36080805346 With City Arrangements 1 6 5 3 2 4 
+And City Locations: 
+203 51 256 280 498 982 
+863 650 506 329 151 591 
+Total Time Taken Is 23 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 7 number of cities
+City Coordinates Are: 
+X Coord: 562 681 504 151 236 839 220 
+Y Coord: 558 566 311 618 406 142 762 New Current Best With Distance: 2660.27062367743, and City Arrangement Of: 1 2 3 4 5 6 7 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 5 6 7 
+Time Taken Thus Far Is 2 Milliseconds
+
+New Current Best With Distance: 2358.37092531307, and City Arrangement Of: 1 2 3 4 5 7 6 
+
+New Current Best With Distance: 2071.79686475258, and City Arrangement Of: 1 2 3 4 7 5 6 
+
+New Current Best With Distance: 1978.2063264733, and City Arrangement Of: 1 2 3 5 4 7 6 
+
+New Current Best With Distance: 1851.23482632292, and City Arrangement Of: 1 2 3 6 5 4 7 
+
+New Current Best With Distance: 1827.40479894125, and City Arrangement Of: 1 2 4 7 5 3 6 
+
+New Current Best With Distance: 1619.38798125751, and City Arrangement Of: 1 2 6 3 5 4 7 
+
+New Current Best With Distance: 1565.12698155997, and City Arrangement Of: 2 1 7 4 5 3 6 
+
+New Current Best With Distance: 1497.89172377765, and City Arrangement Of: 6 2 1 3 5 4 7 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 1497.89172377765 With City Arrangements 6 2 1 3 5 4 7 
+And City Locations: 
+839 681 562 504 236 151 220 
+142 566 558 311 406 618 762 
+Total Time Taken Is 18 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 8 number of cities
+City Coordinates Are: 
+X Coord: 757 350 500 40 71 677 531 570 
+Y Coord: 653 183 402 170 837 344 889 416 New Current Best With Distance: 3890.11838208649, and City Arrangement Of: 1 2 3 4 5 6 7 8 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 5 6 7 8 
+Time Taken Thus Far Is 1 Milliseconds
+
+New Current Best With Distance: 3454.87021383133, and City Arrangement Of: 1 2 3 4 5 6 8 7 
+
+New Current Best With Distance: 3226.20467305886, and City Arrangement Of: 1 2 3 4 5 7 6 8 
+
+New Current Best With Distance: 3136.59261528658, and City Arrangement Of: 1 2 3 4 5 7 8 6 
+
+New Current Best With Distance: 3129.20964924552, and City Arrangement Of: 1 2 3 4 6 8 7 5 
+
+New Current Best With Distance: 2917.36305668268, and City Arrangement Of: 1 2 3 6 8 4 5 7 
+
+New Current Best With Distance: 2807.66001779988, and City Arrangement Of: 1 2 3 6 8 7 5 4 
+
+New Current Best With Distance: 2782.3977785926, and City Arrangement Of: 1 2 3 8 6 7 5 4 
+
+New Current Best With Distance: 2699.96073563102, and City Arrangement Of: 1 2 4 3 6 8 7 5 
+
+New Current Best With Distance: 2674.69849642375, and City Arrangement Of: 1 2 4 3 8 6 7 5 
+
+New Current Best With Distance: 2669.17655839949, and City Arrangement Of: 1 3 2 4 5 7 8 6 
+
+New Current Best With Distance: 2661.79359235843, and City Arrangement Of: 1 3 2 4 6 8 7 5 
+
+New Current Best With Distance: 2615.69075469141, and City Arrangement Of: 1 3 4 2 6 8 7 5 
+
+New Current Best With Distance: 2435.83836436877, and City Arrangement Of: 1 3 6 8 2 4 5 7 
+
+New Current Best With Distance: 2364.99876241989, and City Arrangement Of: 1 3 8 6 2 4 5 7 
+
+New Current Best With Distance: 2338.20838246195, and City Arrangement Of: 1 6 3 8 2 4 5 7 
+
+New Current Best With Distance: 2225.9104660098, and City Arrangement Of: 1 6 8 3 2 4 5 7 
+
+New Current Best With Distance: 2134.69857358445, and City Arrangement Of: 2 4 3 8 6 1 7 5 
+
+New Current Best With Distance: 1982.52728879004, and City Arrangement Of: 4 2 3 6 8 1 7 5 
+
+New Current Best With Distance: 1884.95031546658, and City Arrangement Of: 4 2 3 8 6 1 7 5 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 1884.95031546658 With City Arrangements 4 2 3 8 6 1 7 5 
+And City Locations: 
+40 350 500 570 677 757 531 71 
+170 183 402 416 344 653 889 837 
+Total Time Taken Is 68 Milliseconds
+#########################################################
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running Calculations on 9 number of cities
+City Coordinates Are: 
+X Coord: 670 386 943 268 865 91 840 668 657 
+Y Coord: 139 630 458 776 68 529 666 761 968 New Current Best With Distance: 4888.53001171203, and City Arrangement Of: 1 2 3 4 5 6 7 8 9 
+
+
+Iteration 0 With City Line Up At: 
+1 2 3 4 5 6 7 8 9 
+Time Taken Thus Far Is 3 Milliseconds
+
+New Current Best With Distance: 4843.3976525766, and City Arrangement Of: 1 2 3 4 5 6 9 8 7 
+
+New Current Best With Distance: 4541.03321435504, and City Arrangement Of: 1 2 3 4 5 7 8 9 6 
+
+New Current Best With Distance: 4103.39138367883, and City Arrangement Of: 1 2 3 4 6 5 7 8 9 
+
+New Current Best With Distance: 3981.0265139765, and City Arrangement Of: 1 2 3 4 6 8 9 7 5 
+
+New Current Best With Distance: 3918.7985324191, and City Arrangement Of: 1 2 3 4 6 9 8 7 5 
+
+New Current Best With Distance: 3897.94992286498, and City Arrangement Of: 1 2 3 5 4 6 9 8 7 
+
+New Current Best With Distance: 3738.91730971772, and City Arrangement Of: 1 2 3 5 6 4 7 8 9 
+
+New Current Best With Distance: 3702.5444555724, and City Arrangement Of: 1 2 3 5 6 4 8 7 9 
+
+New Current Best With Distance: 3590.23935940175, and City Arrangement Of: 1 2 3 5 6 4 9 8 7 
+
+New Current Best With Distance: 3287.87492118019, and City Arrangement Of: 1 2 3 5 7 8 9 4 6 
+
+New Current Best With Distance: 2993.3132180746, and City Arrangement Of: 1 2 4 6 5 3 7 8 9 
+
+New Current Best With Distance: 2870.94834837226, and City Arrangement Of: 1 2 4 6 8 9 7 3 5 
+
+New Current Best With Distance: 2808.72036681487, and City Arrangement Of: 1 2 4 6 9 8 7 3 5 
+
+New Current Best With Distance: 2773.42245355638, and City Arrangement Of: 1 2 6 4 8 9 7 3 5 
+
+New Current Best With Distance: 2650.31702300289, and City Arrangement Of: 1 2 6 4 9 8 7 3 5 
+
+New Current Best With Distance: 2631.33249500262, and City Arrangement Of: 1 5 2 6 4 9 8 7 3 
+
+New Current Best With Distance: 2613.55930433232, and City Arrangement Of: 1 5 3 7 2 4 6 8 9 
+
+New Current Best With Distance: 2516.03340951644, and City Arrangement Of: 1 5 3 7 2 6 4 8 9 
+
+New Current Best With Distance: 2394.27191523433, and City Arrangement Of: 1 5 3 7 8 2 6 4 9 
+
+New Current Best With Distance: 2165.95754147997, and City Arrangement Of: 1 5 3 7 8 9 2 4 6 
+
+
+#########################################################
+Computations Finished
+Best Distance is: 2165.95754147997 With City Arrangements 1 5 3 7 8 9 2 4 6 
+And City Locations: 
+670 865 943 840 668 657 386 268 91 
+139 68 458 666 761 968 630 776 529 
+Total Time Taken Is 502 Milliseconds
+#########################################################
+
